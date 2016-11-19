@@ -190,7 +190,7 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
+  # - jemoji
   # - jekyll-lunr-js-search
 
 # mimic GitHub Pages with --safe
@@ -199,7 +199,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
+  # - jemoji
   # - jekyll-lunr-js-search
 
 
